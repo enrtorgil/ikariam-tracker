@@ -1,5 +1,3 @@
-# Support
-
 [Ikariam Island Tracker](https://ikatracker.com) is a live, actively maintained web app, free for everyone to use. This repository is its public home. The source code is kept in a private repository.
 
 ## Getting help
