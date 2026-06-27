@@ -1,3 +1,5 @@
+<img src="public/images/readme/ika-logo-tracker.gif" alt="Ikariam Island Tracker" width="100%" />
+
 [Ikariam Island Tracker](https://ikatracker.com) is a live, actively maintained web app, free for everyone to use. This repository is its public home. The source code is kept in a private repository.
 
 ## Getting help
