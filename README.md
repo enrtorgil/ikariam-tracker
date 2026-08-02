@@ -19,8 +19,10 @@ Visit the live site at **[ikatracker.com](https://ikatracker.com)**.
 
 **Atlas — search, rankings & maps**
 
-- **Detailed search** — any player or alliance: stats, cities, members and score breakdown
+- **Detailed search** — any player or alliance: stats, cities, members and score breakdown, plus a per-player chart of how their scores and states evolved
 - **Player ranking**, **Server ranking** and **Alliance ranking** — cross-server leaderboards
+- **Player comparator** — pick up to 4 players and see who leads in each score, plus a historical chart tracking their score evolution over time
+- **Pillory** — every player ever banned, ranked by total days banned, with how many separate bans and their current state
 - **Interactive world map** per server with player and alliance filters
 - **Inactivity radar** — inactive/banned cities within a map area
 - **Pirate radar** — pirate-fortress range coverage on the map
@@ -28,10 +30,13 @@ Visit the live site at **[ikatracker.com](https://ikatracker.com)**.
 
 **Agora — calculators**
 
-- **Resource calculator** — accumulated building costs with reducers
-- **Military calculator** — unit training cost and time
-- **Production calculator** — sawmill and luxury-mine output
-- **Research calculator** — research-point cost to reach any technology
+- **Building calculator** — accumulated building costs and time, with reducers and multi-level upgrades
+- **Military calculator** — army and fleet composition, upkeep and general bonuses
+- **Units training time** — how long troops and ships take, from your barracks and shipyard level, including world bonus and government form
+- **Abyssal Ambush** — damage and estimated rewards for the event, with editable base damage and reward coefficients
+- **Wall destruction** — simulate siege attacks against a wall round by round, with ammunition and unit rotation
+- **Production calculator** — sawmill and special-mine output, workers and upgrade times
+- **Research calculator** — research points earned from researches
 - **Unit upgrades** — accumulated per-level upgrade cost for troops and ships
 - **Wonder regeneration** — miracle cooldowns from faith and theocracy
 
