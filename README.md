@@ -15,33 +15,33 @@ Visit the live site at **[ikatracker.com](https://ikatracker.com)**.
 - **Detailed island view** with stats, interactive world map, and player distribution chart
 - **Mine level distribution charts** by resource type
 - **Tracked worlds dashboard** with last scrape time, session status and data freshness per server
-- **World bonuses** — the bonuses and maluses of every lobby world, grouped by community, also usable as a filter in the island table
+- **World bonuses** - The bonuses and maluses of every lobby world, grouped by community, also usable as a filter in the island table
 - **Multi-language UI** in 28 languages
 
-**Atlas — search, rankings & maps**
+**Atlas - Search, rankings & maps**
 
-- **Detailed search** — any player or alliance: stats, cities, members and score breakdown, plus a per-player chart of how their scores and states evolved
-- **Player ranking** and **Alliance ranking** — cross-server leaderboards
-- **Server ranking** — atlas of communities and worlds, with a **transfer eligibility checker** (exact gap to the top-50 cutoff in every world), a **ranking by population** and a **population evolution** chart per world
-- **Player comparator** — pick up to 10 players and see who leads in each score, plus a historical chart (absolute or growth %) tracking their score evolution over time
-- **Recent inactives** and **Recent vacations** — players inactive or on vacation right now, ranked by time in that state, with total points and alliance
-- **Pillory** — every player ever banned, ranked by total days banned, with how many separate bans and their current state
+- **Detailed search** - Any player or alliance: stats, cities, members and score breakdown, plus a per-player chart of how their scores and states evolved
+- **Player ranking** and **Alliance ranking** - Cross-server leaderboards
+- **Server ranking** - Atlas of communities and worlds, with a **transfer eligibility checker** (exact gap to the top-50 cutoff in every world), a **ranking by population** and a **population evolution** chart per world
+- **Player comparator** - Pick up to 10 players and see who leads in each score, plus a historical chart (absolute or growth %) tracking their score evolution over time
+- **Recent inactives** and **Recent vacations** - Players inactive or on vacation right now, ranked by time in that state, with total points and alliance
+- **Pillory** - Every player ever banned, ranked by total days banned, with how many separate bans and their current state
 - **Interactive world map** per server with player and alliance filters
-- **Inactivity radar** — inactive/banned cities within a map area
-- **Pirate radar** — pirate-fortress range coverage on the map
-- **Trade map** — branch-office trade ranges across the map
+- **Inactivity radar** - Inactive/banned cities within a map area
+- **Pirate radar** - Pirate-fortress range coverage on the map
+- **Trade map** - Branch-office trade ranges across the map
 
-**Agora — calculators**
+**Agora - Calculators**
 
-- **Building calculator** — accumulated building costs and time, with reducers and multi-level upgrades
-- **Military calculator** — army and fleet composition, upkeep and general bonuses
-- **Units training time** — how long troops and ships take, from your barracks and shipyard level, including world bonus and government form
-- **Abyssal Ambush** — damage and estimated rewards for the event, with editable base damage and reward coefficients
-- **Wall destruction** — simulate siege attacks against a wall round by round, with ammunition and unit rotation
-- **Production calculator** — sawmill and special-mine output, workers and upgrade times
-- **Research calculator** — research points earned from researches
-- **Unit upgrades** — accumulated per-level upgrade cost for troops and ships
-- **Wonder regeneration** — miracle cooldowns from faith and theocracy
+- **Building calculator** - Accumulated building costs and time, with reducers and multi-level upgrades
+- **Military calculator** - Army and fleet composition, upkeep and general bonuses
+- **Units training time** - How long troops and ships take, from your barracks and shipyard level, including world bonus and government form
+- **Abyssal Ambush** - Damage and estimated rewards for the event, with editable base damage and reward coefficients
+- **Wall destruction** - Simulate siege attacks against a wall round by round, with ammunition and unit rotation
+- **Production calculator** - Sawmill and special-mine output, workers and upgrade times
+- **Research calculator** - Research points earned from researches
+- **Unit upgrades** - Accumulated per-level upgrade cost for troops and ships
+- **Wonder regeneration** - Miracle cooldowns from faith and theocracy
 
 ---
 
